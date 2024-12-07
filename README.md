@@ -1,5 +1,5 @@
 # Student-Grade-Calculator-
-This program calculates the grade of a student based on the marks entered by user in each subject. 
+This program calculates the grade of a student based on the marks entered by user in six subject. 
 
 # Snapshot of program 
 ![grade](https://github.com/user-attachments/assets/a72bd562-d1bb-4367-9513-98146717ff47)
